@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there 👋
+I'm Purvesh, a 3rd year Engineering student at Vidyalankar Institue Of Technology.
 
-<!--
-**purveshhT/purveshhT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly work on developing AI and ML models-Python, Data Handling, Machine Learning Algorithms
 
-Here are some ideas to get you started:
+I also have interest in web UI design using Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a fresh profile where i'll be uploading some smaller projects, experiments, and things i'm currently working on.
+
+Tools and Tech 
+- Python
+- NumPy + Pandas
+- Statistics basics
+- Scikit-learn
+- PyTorch 
+- Data visualization
+
